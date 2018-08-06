@@ -1,2 +1,2 @@
 # configuration files
-My personal .bashrc & .vimrc
+My personal .bashrc, .vimrc, etc.
