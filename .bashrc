@@ -21,6 +21,7 @@ alias cl='clear'
 #start screenfetch to display arch logo
 screenfetch
 
-#add android studio to path variable
-export PATH="${PATH}:~/android-studio/bin"
+#add to path variable
+export PATH="${PATH}:~/android-studio/bin:~/.gem/ruby/2.5.0/bin:~/go/bin"
 export EDITOR="/usr/bin/vim"
+export VPLAYDIR="~/V-PlaySDK"

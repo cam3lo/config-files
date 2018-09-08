@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/jese/.local/share/xorg'
-let g:netrw_dirhist_2='/home/jese/bin/mean-rsvp/src/assets'
-let g:netrw_dirhist_3='/home/jese/bin/mean-rsvp/src/app/pages/callback'
+let g:netrw_dirhist_1='/home/jese/bin/site'
+let g:netrw_dirhist_2='/home/jese'
+let g:netrw_dirhist_3='/home/jese/bin/abs_cpp_projects/ch_1/baby_8'
