@@ -182,7 +182,7 @@ let g:jsx_ext_required = 0
 " need more things...
 
 "=======================================================================
-"                               C/C++ Dev Config
+"                               Bash Scripting Config
 "=======================================================================
 "
 au BufNewFile,BufRead *.sh,*.bash:
