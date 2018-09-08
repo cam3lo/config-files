@@ -182,6 +182,20 @@ let g:jsx_ext_required = 0
 " need more things...
 
 "=======================================================================
+"                               C/C++ Dev Config
+"=======================================================================
+"
+au BufNewFile,BufRead *.sh,*.bash:
+    \ set tabstop=4 |
+    \ set softtabstop=0 |
+    \ set shiftwidth=4 |
+    \ set textwidth=79 |
+    \ set expandtab |
+    \ set autoindent |
+    \ set fileformat=unix |
+" need more things...
+
+"=======================================================================
 "                             General Config
 "=======================================================================
 "
